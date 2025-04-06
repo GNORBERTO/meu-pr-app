@@ -1,0 +1,7 @@
+{
+  "name": "pr-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
